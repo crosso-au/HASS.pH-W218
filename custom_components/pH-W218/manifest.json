@@ -1,0 +1,11 @@
+{
+  "domain": "pH-W218",
+  "name": "pH-W218 Water Tester (CrossboxLabs)",
+  "version": "1.1.0",
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "documentation": "https://github.com/crosso-au/homeassistant-pHW218/",
+  "issue_tracker": "https://github.com/crosso-au/homeassistant-pHW218/issues",
+  "codeowners": ["@crosso-au"],
+  "requirements": []
+}
