@@ -134,5 +134,5 @@ If your device does not support a code, the sensor will show 0 or stay unavailab
 ## Credits and license
 
 Created by you. Not affiliated with Tuya or Home Assistant.  
-License: MIT.
+License: GPL-3.0 license
 
