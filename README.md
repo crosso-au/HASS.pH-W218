@@ -49,8 +49,8 @@ You need a Tuya IoT Platform account and a Cloud project that is linked to the m
 Manual install for now.
 
 1. Copy this folder to Home Assistant:  
-   `custom_components/tankqual` so the path is:  
-   `/config/custom_components/tankqual/`
+   `custom_components/HASS.pH-W218` so the path is:  
+   `/config/custom_components/HASS.pH-W218/`
 2. Restart Home Assistant.
 3. Go to **Settings → Devices and services → Add Integration** and search for **TankQual Tuya Water Tester**.
 4. Enter:
@@ -104,7 +104,7 @@ If your device does not support a code, the sensor will show 0 or stay unavailab
 - **HTTP 1010 or 1106 Too Many Requests**  
   - Increase scan interval in Options.
 - **Where to see logs**  
-  - Settings → System → Logs → filter `tankqual`
+  - Settings → System → Logs → filter `HASS.pH-W218`
   - Enable debug in `configuration.yaml`:
     ```yaml
     logger:
