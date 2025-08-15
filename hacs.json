@@ -3,4 +3,6 @@
   "domain": "pH-W218",
   "country": ["AU"],
   "render_readme": true
+  "content_in_root": false,
 }
+
