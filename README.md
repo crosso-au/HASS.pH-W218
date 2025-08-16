@@ -1,4 +1,6 @@
-![](https://cdn.crossboxlabs.com/cbl-logo.png)
+<p align="center">
+  <img src="[/assets/ph-218.png](https://cdn.crossboxlabs.com/cbl-logo.png)" />
+</p>
 
 [![github](https://img.shields.io/badge/CrossboxLabs%20|%20crosso_au-8A2BE2)](https://github.com/crosso-au/) 
 
