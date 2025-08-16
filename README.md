@@ -1,3 +1,7 @@
+![](https://cdn.crossboxlabs.com/cbl-logo.png)
+
+[![github](https://img.shields.io/badge/CrossboxLabs%20|%20crosso_au-8A2BE2)](https://github.com/crosso-au/) 
+
 # pH-W218 Home Assistant Integration
 
 [![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20Ryan%20a%20tasty%20coffee&emoji=☕&slug=crosso_au&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/crosso_au)
@@ -147,7 +151,7 @@ If your device does not support a code, the sensor will show 0 or stay unavailab
 
 ## Credits and license
 
-- Created by Ryan Crossingham @ CrossboxLabs 
+- Created by Ryan Crossingham @ CrossboxLabs 🤘
 - Not affiliated with Analytical Intruments, Tuya or Home Assistant.  
 
 License: GPL-3.0 license
