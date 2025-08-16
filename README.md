@@ -1,5 +1,7 @@
 # pH-W218 Home Assistant Integration
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="crosso_au" data-color="#FFDD00" data-emoji="☕"  data-font="Lato" data-text="Buy Ryan a tasty coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
 Home Assistant custom integration that reads a Tuya WiFi water tester from the Tuya Cloud and exposes **9 UI-manageable sensors** with unique IDs under one device. Works when Local Tuya cannot be used.
 
 ## What it gives you
