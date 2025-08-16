@@ -13,6 +13,11 @@ Home Assistant custom integration that reads a Tuya WiFi water tester from the T
 - Async HTTP with Tuya token caching
 - Simply, another option other tha LocalTuya. Personally, I had mixed results with LocalTuya - I needed something that suited my needs and that was a bit more stable.
 
+## The Hardware
+- 8-in-1 Multifunction Water Quality Meter Digital WiFi PH EC TDS SALT SG.Temp ORP CF Tester Smart Monitor Tuya APP Control
+-[![Buy on AliExpress](https://img.shields.io/badge/Buy%20on%20AliExpress-FF4747?style=for-the-badge)](https://www.aliexpress.com/item/1005008046059276.html)
+[![pH-W218](https://i.ibb.co/ns0LkyGs/ph-218.png)](#readme)
+
 ---
 
 ## Prerequisites - set up Tuya Cloud and link your account
