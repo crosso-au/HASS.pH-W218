@@ -17,6 +17,7 @@ Home Assistant custom integration that reads a Tuya WiFi water tester from the T
 
 ## Prerequisites - set up Tuya Cloud and link your account
 
+This is the most important piece. The developer platform changes often, so it can be difficult to give accurate steps on this one. I will update this as often as I can.
 You need a Tuya IoT Platform account and a Cloud project that is linked to the mobile app account that owns your water tester. Steps:
 
 1. **Create a Tuya developer account**  
