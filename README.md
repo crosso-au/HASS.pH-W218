@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="[/assets/ph-218.png](https://cdn.crossboxlabs.com/cbl-logo.png)" />
+  <img src="https://cdn.crossboxlabs.com/cbl-logo.png" />
 </p>
 
-[![github](https://img.shields.io/badge/CrossboxLabs%20|%20crosso_au-8A2BE2)](https://github.com/crosso-au/) 
+
 
 # pH-W218 Home Assistant Integration
+
+[![github](https://img.shields.io/badge/CrossboxLabs%20|%20crosso_au-8A2BE2)](https://github.com/crosso-au/) 
 
 [![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20Ryan%20a%20tasty%20coffee&emoji=☕&slug=crosso_au&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/crosso_au)
 
