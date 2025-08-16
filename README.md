@@ -61,6 +61,13 @@ You need a Tuya IoT Platform account and a Cloud project that is linked to the m
    - **Device ID**: Cloud Project → **Devices** → your water tester → copy the **Device ID**.  
      - Optional: in **API Explorer**, call the device info endpoint to verify the ID and permissions.
 
+ <p align="center">
+  <img src="https://github.com/crosso-au/HASS.pH-W218/blob/main/1.png?raw=true" />
+  </p>
+   <p align="center">
+  <img src="https://github.com/crosso-au/HASS.pH-W218/blob/main/2.png?raw=true" />
+  </p>
+  
 > Tip: Endpoint and data center must match. A region mismatch is the number one cause of 1010/permission errors or empty results.
 
 ---
@@ -73,7 +80,7 @@ Manual install for now.
    `custom_components/HASS.pH-W218` so the path is:  
    `/config/custom_components/HASS.pH-W218/`
 2. Restart Home Assistant.
-3. Go to **Settings → Devices and services → Add Integration** and search for **TankQual Tuya Water Tester**.
+3. Go to **Settings → Devices and services → Add Integration** and search for **pH-W218**.
 4. Enter:
    - **Endpoint**: the URL from the table above
    - **Client ID**: from the Tuya Cloud Project
