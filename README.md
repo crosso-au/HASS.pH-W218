@@ -3,7 +3,7 @@
 Home Assistant custom integration that reads a Tuya WiFi water tester from the Tuya Cloud and exposes **9 UI-manageable sensors** with unique IDs under one device. Works when Local Tuya cannot be used.
 
 ## What it gives you
-- Sensors with names like `WaterTank - Temperature`, `WaterTank - pH`, `WaterTank - TDS`, `WaterTank - EC`, `WaterTank - Salt`, `WaterTank - ORP`, `WaterTank - CF`, `WaterTank - Proportion`, `WaterTank - RH`
+- Sensors with names like ` pHW218 - Temperature`, ` pHW218 - pH`, ` pHW218 - TDS`, ` pHW218 - EC`, ` pHW218 - Salt`, ` pHW218 - ORP`, ` pHW218 - CF`, ` pHW218 - Proportion`, ` pHW218 - RH`
 - Unique IDs so you can rename, assign Areas, and customize in the UI
 - A single Device for easy Area assignment
 - Configurable polling interval and name prefix from the Options panel
@@ -58,7 +58,7 @@ Manual install for now.
    - **Client ID**: from the Tuya Cloud Project
    - **Client Secret**: from the Tuya Cloud Project
    - **Device ID**: from the Devices tab
-   - **Name Prefix**: defaults to `WaterTank`
+   - **Name Prefix**: defaults to ` pHW218`
    - **Scan interval**: defaults to 60 seconds
 
 After setup, open the created **Device** and you will see the 9 sensors. Assign an **Area** from the device page.
@@ -67,7 +67,7 @@ After setup, open the created **Device** and you will see the 9 sensors. Assign 
 
 ## Configuration - change later in Options
 
-- **Name Prefix**: default `WaterTank`. Changes the visible names only. Unique IDs stay stable.
+- **Name Prefix**: default ` pHW218`. Changes the visible names only. Unique IDs stay stable.
 - **Scan interval**: default 60 seconds. Respect Tuya rate limits if you reduce this.
 
 To change: Settings → Devices and services → TankQual Tuya Water Tester → **Configure**.
@@ -97,6 +97,7 @@ If your device does not support a code, the sensor will show 0 or stay unavailab
 ## Troubleshooting
 
 - **Cannot add integration or no data**  
+  - Often Tuya API related 
   - Verify Endpoint matches your Cloud Project data center.
   - Confirm the Cloud Project is subscribed to the needed APIs.
   - Confirm the App Account is linked and the device appears under Devices.
@@ -133,6 +134,8 @@ If your device does not support a code, the sensor will show 0 or stay unavailab
 
 ## Credits and license
 
-Created by you. Not affiliated with Tuya or Home Assistant.  
+Created by Ryan Crossingham @ CrossboxLabs 
+Not affiliated with Analytical Intruments, Tuya or Home Assistant.  
+
 License: GPL-3.0 license
 
