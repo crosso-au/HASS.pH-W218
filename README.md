@@ -26,7 +26,7 @@ Home Assistant custom integration that reads a Tuya WiFi water tester from the T
 - [![Buy on AliExpress](https://img.shields.io/badge/Buy%20on%20AliExpress-FF4747?style=for-the-badge)](https://www.aliexpress.com/item/1005008046059276.html)
 
 <p align="center">
-  <img src="/assets/ph-218.png" />
+  <img src="https://github.com/crosso-au/HASS.pH-W218/blob/main/assets/ph-218.png?raw=true" />
 </p>
 
 ---
