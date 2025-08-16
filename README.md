@@ -15,8 +15,10 @@ Home Assistant custom integration that reads a Tuya WiFi water tester from the T
 
 ## The Hardware
 - 8-in-1 Multifunction Water Quality Meter Digital WiFi PH EC TDS SALT SG.Temp ORP CF Tester Smart Monitor Tuya APP Control
-- ![pH-W218](https://i.ibb.co/ns0LkyGs/ph-218.png)
--[![Buy on AliExpress](https://img.shields.io/badge/Buy%20on%20AliExpress-FF4747?style=for-the-badge)](https://www.aliexpress.com/item/1005008046059276.html)
+- <p align="center">
+  <img src="https://i.ibb.co/ns0LkyGs/ph-218.png" alt="pH-W218" width="720">
+</p>
+- [![Buy on AliExpress](https://img.shields.io/badge/Buy%20on%20AliExpress-FF4747?style=for-the-badge)](https://www.aliexpress.com/item/1005008046059276.html)
 
 ---
 
