@@ -124,7 +124,7 @@ If your device does not support a code, the sensor will show 0 or stay unavailab
 ## Security
 
 - Never commit your Client Secret or Access Token to Git.  
-- This integration reads device state only. It does not write commands.
+- This integration reads device state only. It does need write commands - In your Tuya permissions, read is fine if you're worried about least-privilege.
 
 ---
 
