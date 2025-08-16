@@ -8,6 +8,7 @@ Home Assistant custom integration that reads a Tuya WiFi water tester from the T
 - A single Device for easy Area assignment
 - Configurable polling interval and name prefix from the Options panel
 - Async HTTP with Tuya token caching
+- Simply, another option other tha LocalTuya. Personally, I had mixed results with LocalTuya - I needed something that suited my needs and that was a bit more stable.
 
 ---
 
