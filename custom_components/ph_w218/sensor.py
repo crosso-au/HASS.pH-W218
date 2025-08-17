@@ -55,8 +55,8 @@ class TankQualSensor(CoordinatorEntity[TankQualCoordinator], SensorEntity):
         self._attr_native_unit_of_measurement = unit
         self._attr_icon = icon
         self._device_id = device_id
-         # Add your image here
-        self._attr_entity_picture = "/local/pH-W218/logo.png"
+        # Icon Fix
+        # self._attr_entity_picture = "/local/pH-W218/logo.png"
     @property
     def native_value(self):
         return self.coordinator.data.get(self._code) if self.coordinator.data else None
