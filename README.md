@@ -62,10 +62,10 @@ You need a Tuya IoT Platform account and a Cloud project that is linked to the m
      - Optional: in **API Explorer**, call the device info endpoint to verify the ID and permissions.
 
  <p align="center">
-  <img src="https://github.com/crosso-au/HASS.pH-W218/blob/main/1.png?raw=true" />
+  <img src="https://github.com/crosso-au/HASS.pH-W218/blob/main/assets/1.png?raw=true" />
   </p>
    <p align="center">
-  <img src="https://github.com/crosso-au/HASS.pH-W218/blob/main/2.png?raw=true" />
+  <img src="https://github.com/crosso-au/HASS.pH-W218/blob/main/assets/2.png?raw=true" />
   </p>
   
 > Tip: Endpoint and data center must match. A region mismatch is the number one cause of 1010/permission errors or empty results.
